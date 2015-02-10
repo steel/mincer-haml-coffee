@@ -18,5 +18,13 @@
   "dependencies": {
     "coffee-script": "^1.9.0",
     "lodash": "^3.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/steel/mincer-haml-coffee.git"
+  },
+  "bugs": {
+    "url": "https://github.com/steel/mincer-haml-coffee/issues"
+  },
+  "homepage": "https://github.com/steel/mincer-haml-coffee"
 }
