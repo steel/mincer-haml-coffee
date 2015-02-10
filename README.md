@@ -1,6 +1,6 @@
 # Mincer Haml-Coffee
 
-[haml-coffee syntax](https://github.com/sstephenson/haml-coffee) transformation engine for [Mincer](https://github.com/nodeca/mincer).
+[Haml-Coffee](https://github.com/netzpirat/haml-coffee) transformation engine for [Mincer](https://github.com/nodeca/mincer).
 
 ## Installation
 
