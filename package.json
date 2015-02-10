@@ -1,0 +1,22 @@
+{
+  "name": "mincer-haml-coffee",
+  "version": "0.0.1",
+  "main": "index.js",
+  "keywords": [
+    "mincer",
+    "mincer-contrib",
+    "assets",
+    "pipeline",
+    "hamlc",
+    "haml-coffee"
+  ],
+  "author": "Steel Fu",
+  "license": "MIT",
+  "devDependencies": {
+    "mincer": "^1.2.3"
+  },
+  "dependencies": {
+    "coffee-script": "^1.9.0",
+    "lodash": "^3.1.0"
+  }
+}
