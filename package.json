@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "coffee-script": "^1.9.0",
-    "lodash": "^3.1.0"
+    "lodash": "^4.7.15"
   },
   "repository": {
     "type": "git",
